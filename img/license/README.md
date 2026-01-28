@@ -8,12 +8,12 @@ Please see the main README.md file for more information.
 
 ## List of 3rd party images and their authors
 
-* /img/license/by-svg - by Creative Commons, licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license;
+* /img/license/by-sa.svg - badge trademarked by Creative Commons, for the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license
 * /img/license/gpl-v3-logo.svg - by the Free Software Foundation for the GNU GPLv3 license, available as public domain.
  
 ```bash
 .
-├── by.svg
+├── by-sa.svg
 ├── gpl-v3-logo.svg
 └── README.md
 
